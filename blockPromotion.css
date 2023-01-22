@@ -1,0 +1,4 @@
+/* Fuck you Elon Musk. */
+[data-testid="placementTracking"]:has([d^="M19.498 3h-15c-1.381 0-2.5 1.12-2.5 2.5v13c0 1.38 1.119 2.5 2.5 2.5h15c1.381"]) {
+  display: none;
+}

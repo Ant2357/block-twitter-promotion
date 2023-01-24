@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "block-twitter-promotion",
-  "version": "1.0.0.0",
-  "description": "Twitter にてプロモーションを非表示にする拡張です。",
+  "version": "1.1.0.0",
+  "description": "Twitter にて広告プロモーションを非表示にする拡張です。",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",

@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Twitter広告プロモーション非表示",
-  "version": "2.0.0.0",
+  "name": "Twitter広告プロモーションを非表示にする",
+  "version": "2.1.0.0",
   "description": "Twitter にて広告プロモーションを非表示にする拡張です。",
   "icons": {
     "16": "icon16.png",

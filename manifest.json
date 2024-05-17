@@ -1,15 +1,15 @@
 {
   "manifest_version": 3,
-  "name": "Twitter広告プロモーションを非表示にする",
-  "version": "2.1.1.0",
-  "description": "Twitter にて広告プロモーションを非表示にする拡張です。",
+  "name": "X(旧Twitter)広告プロモーションを非表示にする",
+  "version": "3.0.0.0",
+  "description": "X(旧Twitter) にて広告プロモーションを非表示にする拡張です。",
   "icons": {
     "16": "assets/imgs/icons/icon16.png",
     "48": "assets/imgs/icons/icon48.png",
     "128": "assets/imgs/icons/icon128.png"
   },
   "content_scripts": [{
-    "matches": ["https://twitter.com/*"],
+    "matches": ["https://x.com/*"],
     "css": ["blockPromotion.css"]
   }]
 }

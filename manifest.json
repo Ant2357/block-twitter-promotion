@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "X(旧Twitter)広告プロモーションを非表示にする",
-  "version": "3.0.0.0",
+  "version": "4.0.0.0",
   "description": "X(旧Twitter) にて広告プロモーションを非表示にする拡張です。",
   "icons": {
     "16": "assets/imgs/icons/icon16.png",

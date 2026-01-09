@@ -1,11 +1,6 @@
 /* Fuck you Elon Musk. */
 
 /* 広告プロモーション非表示 */
-[data-testid="placementTracking"]:has([d^="M19.498 3h-15c-1.381 0-2.5 1.12-2.5 2.5v13c0 1.38 1.119 2.5 2.5 2.5h15c1.381"]) {
-  display: none;
-}
-
-/* ユーザー画面の広告プロモーション非表示 */
-.css-1dbjc4n.r-1igl3o0.r-qklmqi.r-1adg3ll.r-1ny4l3l:has(.css-1dbjc4n.r-1wtj0ep.r-1ny4l3l.r-ymttw5.r-1f1sjgu) {
+[data-testid="tweet"]:has(div > div > div.css-175oi2r.r-18u37iz.r-136ojw6 > div.css-175oi2r.r-1iusvr4.r-16y2uox.r-1777fci.r-kzbkwu > div.css-175oi2r.r-zl2h9q > div > div.css-175oi2r.r-1kkk96v > div > div.css-146c3p1.r-bcqeeo.r-1ttztb7.r-qvutc0.r-1tl8opc.r-a023e6.r-rjixqe.r-16dba41 > span) {
   display: none;
 }

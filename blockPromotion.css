@@ -4,3 +4,8 @@
 [data-testid="tweet"]:has(div > div > div.css-175oi2r.r-18u37iz.r-136ojw6 > div.css-175oi2r.r-1iusvr4.r-16y2uox.r-1777fci.r-kzbkwu > div.css-175oi2r.r-zl2h9q > div > div.css-175oi2r.r-1kkk96v > div > div.css-146c3p1.r-bcqeeo.r-1ttztb7.r-qvutc0.r-1tl8opc.r-a023e6.r-rjixqe.r-16dba41 > span) {
   display: none;
 }
+
+/* リプライ欄の広告プロモーション非表示 */
+[data-testid="tweet"]:has(div > div > div.css-g5y9jx.r-18u37iz.r-136ojw6 > div.css-g5y9jx.r-1iusvr4.r-16y2uox.r-1777fci.r-kzbkwu > div.css-g5y9jx.r-zl2h9q > div > div.css-g5y9jx.r-1kkk96v > div > div.css-146c3p1.r-bcqeeo.r-1ttztb7.r-qvutc0.r-1tl8opc.r-a023e6.r-rjixqe.r-16dba41 > span) {
+  display: none;
+}
